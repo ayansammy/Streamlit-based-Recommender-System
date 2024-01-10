@@ -42,16 +42,18 @@ Analysis of the highest-rated movies each day of the week reveals a notable tren
 Upon analyzing the dataset, distinct genre preferences among viewers emerge. The predominant genres are Drama and Comedy, exerting a notable influence on the dataset. Following closely behind are Thriller, Romance, and Action genres. In contrast, Musical and Film-Noir genres exhibit the lowest representation, signaling a pronounced inclination towards Drama and Comedy movies among users.
 
 # Application Demonstration
-Introducing a comprehensive visual overview of our application, **Moviepedia**, through an insightful video demonstration.
-![Moviepedia](video/moviepedia.mp4)
+Here is a video providing a demonstration of our Recommender System (Moviepedia) in action: [Link](https://youtu.be/i3uefTg0EpU)
 
-## Recommendations
+# Recommendations
 **Optimize Content for Weekends:**
 - Capitalize on the higher movie ratings observed on Saturdays and Sundays by optimizing content delivery or promotional activities during these days.
+
 **Content Emphasis on Popular Genres:**
 - Focus on promoting and recommending movies in the most popular genres, such as Drama and Comedy, to enhance user satisfaction and retention.
+
 **Enhance Collaborative-Based Algorithm:**
 - Continuously refine and enhance the collaborative-based algorithm for movie recommendations to improve accuracy and relevance.
+
 **Explore Integration with Social Platforms:**
 - Investigate the potential integration of social aspects within the recommender system. Social recommendations or sharing features could enhance user engagement and bring a social element to movie discovery.
 
